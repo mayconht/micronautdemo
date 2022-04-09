@@ -1,0 +1,9 @@
+learning.micronaut.$AppClient$Intercepted$Definition$Reference
+learning.micronaut.$CompleteTest$Definition$Reference
+learning.micronaut.$DeclarativeHttpClientWithJwtTest$Definition$Reference
+learning.micronaut.$JwtAuthenticationTest$Definition$Reference
+learning.micronaut.$LoginIncludesRefreshTokenTest$Definition$Reference
+learning.micronaut.$MicronautguideTest$Definition$Reference
+learning.micronaut.$OauthAccessTokenTest$Definition$Reference
+learning.micronaut.$RefreshTokenNotFoundTest$Definition$Reference
+learning.micronaut.$UnsignedRefreshTokenTest$Definition$Reference

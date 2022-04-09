@@ -1,4 +1,4 @@
-package com.micronaut;
+package learning.micronaut;
 
 import io.micronaut.runtime.Micronaut;
 
